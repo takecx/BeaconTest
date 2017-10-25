@@ -14,5 +14,5 @@ imagesディレクトリ以下に必要かもしれない画像を入れてい�
 【検証環境】  
 ・macOS Sierra ver.10.12.6  
 ・XCode Version 9.0 (9A235)  
-・ Apple iPhone6 (MG4F2J/A)  
+・Apple iPhone6 (MG4F2J/A)  
 ・iOS バージョン 11.0.3 (15A432)  
